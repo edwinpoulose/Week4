@@ -1,0 +1,24 @@
+
+
+@media screen and (min-width: 650px) {
+    .container {
+        background-color: #000;
+        color: #fff;
+        font-family: "Cosmic Sans MS", "Cosmic Sans", cursive;
+    }
+}
+
+.box {
+    background-color: blue;
+    color: white;
+    min-height: 100px;
+    text-align: center;
+}
+
+.box2 {
+    background-color: red;
+    color: white;
+    min-height: 100px;
+    text-align: center;
+}
+
